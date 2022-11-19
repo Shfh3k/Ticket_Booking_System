@@ -1,2 +1,2 @@
 # Ticket_Booking_System
-Written in java
+Written in java and sql
